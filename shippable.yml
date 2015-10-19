@@ -36,3 +36,5 @@ after_success:
 notification:
   email:
     varsha@shippable.com
+    
+archive: true
